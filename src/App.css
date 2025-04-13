@@ -1,0 +1,19 @@
+.input-text{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 6px;
+    width: 121px;
+    height: 50px;
+    font-size: 17px;
+    border: 2px solid rgba(0, 0, 255, 0.724);
+    background-color: transparent;
+    color: white;
+}
+
+.input-text::placeholder{
+    color: rgba(0, 0, 255, 0.677);
+}
+
+.btn-add{
+    margin: 10px;
+}
